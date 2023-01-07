@@ -19,10 +19,12 @@ body {
 
 header {
     padding: 1em;
+    height: auto;
+    width: fit-content-inline;    
     text-align: left;
     color: #ffffff;
     background-color: #0c5475;
-    border-radius: 5%;
+    border-radius: 3em;
 }
 
 ul {
